@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="verify login session for XTTTxxx platform" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-29T10:51:53" hostname="CHMEPPF1WYQYP" time="11.178">
+  <properties/>
+  <testcase name="Verify correct entry" classname="verify login session for XTTTxxx platform" time="11.178"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[feb. 29, 2024 5:51:54 A. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 122.0.6261.69 (81bc525b6a36d91ed7fe98a4b53c6f53c79adbb2-refs/branch-heads/6261_57@{#3}) on port 42223
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb. 29, 2024 5:51:58 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Verify correct entry
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
